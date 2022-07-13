@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 meu nome e menfis cardozo araujo
 novo testeeee
+=======
+meu nome e menfis
+novo teste 0.0.1
+>>>>>>> ce86183409f9fb70c777371ff40e41f14c8d038a
